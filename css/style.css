@@ -20,3 +20,10 @@ background-color: #b6d11d;
     width: 600px;
     height: 100%;
 }
+
+@media  (max-width:600px) {
+   .video{
+    width: 360px;
+    height: 200px;
+   }
+}
