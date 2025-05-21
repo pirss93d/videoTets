@@ -18,7 +18,7 @@ background-color: #b6d11d;
     height: 100%;
 }
 
-@media  (max-width:600px) {
+@media (max-width:600px) {
    .video{
     width: 360px;
     height: 200px;
